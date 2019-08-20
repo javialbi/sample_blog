@@ -16,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
-# Nokogiri Security Alert Update
+# Nokogiri Github security alert update
 gem "nokogiri", ">= 1.10.4" 
 
 # Use CoffeeScript for .coffee assets and views
